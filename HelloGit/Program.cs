@@ -12,6 +12,7 @@ namespace HelloGit
         {
             // lksdflksjflk   mer kommentar
             Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
