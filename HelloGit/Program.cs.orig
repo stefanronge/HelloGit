@@ -12,7 +12,11 @@ namespace HelloGit
         {
             // lksdflksjflk   mer kommentar
             Console.WriteLine("Hello Git!");
+<<<<<<< HEAD
+            Console.WriteLine("Conflicting git!");
+=======
             Console.WriteLine("Hello World!");
+>>>>>>> Dev
         }
     }
 }
